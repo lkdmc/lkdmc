@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "Week1 Summary"
-date:   2022-09-27 16:52:07
-categories: Computer Graphics
+date:   2022-09-05 16:52:07
+categories: ComputerGraphics
 tags: week1
-image: /images/pic02.jpg
+image: ![image](https://user-images.githubusercontent.com/70512257/192621740-15486cb5-058a-4cac-8698-ea406ceeb94f.png)
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+●
 
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
