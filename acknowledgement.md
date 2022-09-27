@@ -1,8 +1,8 @@
 ---
 layout: page
-title: acknowledgement
-permalink: /acknowledgement/
+title: Computer graphics
+permalink: /Summary/
 image: /images/pic01.jpg
 ---
 ### Website Design
-- [HTML5up](http://html5up.net/)
+- [Week1](https://lkdmc.github.io/jekyll/update/2015/11/14/welcome-to-jekyll0.html/)
